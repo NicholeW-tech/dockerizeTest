@@ -1,4 +1,4 @@
-<h1>Dockerize </h1>
+<h1>Dockerize Containers</h1>
 
 This is a project created following the MIT X Pro curriculum to learn how to create and run Docker containers.
 
