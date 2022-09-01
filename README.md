@@ -1,6 +1,6 @@
 <h1>Dockerize </h1>
 
-This is a project created following the MIT X Pro curriculum to implement best CI/CD practices.
+This is a project created following the MIT X Pro curriculum to learn how to create and run Docker containers.
 
 This project can be ran by cloning or downloading source code from Github. Running npm init and installing package.json dependencies.
 
@@ -11,25 +11,30 @@ This project can be ran by cloning or downloading source code from Github. Runni
 MongoDB
 </ul>
 <ul>
-Javascript
+React
 </ul>
 <ul>
-faker.js
+Express
 </ul>
 <ul>
-HTML5
+Node
 </ul>
-<ul>
-CSS
-</ul>
-<h3>Features</h3>
+
 
 This aplication currently has the ability to:
 <ul>
-Create a user using faker.js to generate fake information
+Create a user 
 </ul>
 <ul>
-View users created 
+Update users
 </ul>
 <ul>
-Store user data in MongoDB 
+View user data
+</ul>
+<ul>
+Delete user data from database
+</ul>
+
+<h3>License</h3>
+<br>
+"license" "MIT"
